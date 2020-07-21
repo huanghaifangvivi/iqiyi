@@ -1,0 +1,117 @@
+{
+  "video_src": [
+    "./data/data/assets/video/01.mp4",
+    "./data/data/assets/video/02.mp4",
+    "./data/data/assets/video/03.mp4",
+    "./data/data/assets/video/04.mp4",
+    "./data/data/assets/video/05.mp4",
+    "./data/data/assets/video/06.mp4",
+    "./data/data/assets/video/07.mp4",
+    "./data/data/assets/video/08.mp4",
+    "./data/data/assets/video/09.mp4",
+    "./data/data/assets/video/10.mp4",
+    "./data/data/assets/video/11.mp4"
+  ],
+  "for_you": [
+    {
+      "imgsrc": "./data/data/assets/images/details/01.webp",
+      "h4": "【王一博】卷卷 你说的是我吧~~哈哈~",
+      "hot": "热度 12",
+      "time": "00:28",
+      "head_imgsrc": "./data/data/assets/images/details/01.jpg",
+      "head_name": "王一博要努力啊",
+      "like": 6,
+      "speak": ""
+    },
+    {
+      "imgsrc": "./data/data/assets/images/details/02.webp",
+      "h4": "凡凡拍人家！",
+      "hot": "热度 12",
+      "time": "03:00",
+      "head_imgsrc": "./data/data/assets/images/details/02.jpg",
+      "head_name": "豪贤推荐",
+      "like": 5,
+      "speak": "1"
+    },
+    {
+      "imgsrc": "./data/data/assets/images/details/03.webp",
+      "h4": "哇哥赞佟丽娅勇敢 漫游小队冰上钓鱼初体验",
+      "hot": "热度 53",
+      "time": "03:21",
+      "head_imgsrc": "./data/data/assets/images/details/07.png",
+      "head_name": "漫游记官方",
+      "like": 3,
+      "speak": "2"
+    },
+    {
+      "imgsrc": "./data/data/assets/images/details/04.webp",
+      "h4": "向全世界安利景瑜",
+      "hot": "热度 10",
+      "time": "00:11",
+      "head_imgsrc": "./data/data/assets/images/details/08.jpg",
+      "head_name": "娱乐",
+      "like": 2,
+      "speak": ""
+    },
+    {
+      "imgsrc": "./data/data/assets/images/details/05.webp",
+      "h4": "【正泰】很喜欢粘着果果的泰泰",
+      "hot": "热度 14",
+      "time": "00:27",
+      "head_imgsrc": "./data/data/assets/images/details/08.jpg",
+      "head_name": "田正国美貌",
+      "like": 1,
+      "speak": ""
+    },
+    {
+      "imgsrc": "./data/data/assets/images/details/06.jpg",
+      "h4": "欧巴我不傻",
+      "hot": "热度 10",
+      "time": "02:36",
+      "head_imgsrc": "./data/data/assets/images/details/08.jpg",
+      "head_name": "公益",
+      "like": "",
+      "speak": ""
+    },
+    {
+      "imgsrc": "./data/data/assets/images/details/07.webp",
+      "h4": "好帅啊，花痴(❤´艸｀❤)",
+      "hot": "热度 11",
+      "time": "04:57",
+      "head_imgsrc": "./data/data/assets/images/details/09.jpg",
+      "head_name": "浅忆。那抹离",
+      "like": 1,
+      "speak": ""
+    },
+    {
+      "imgsrc": "./data/data/assets/images/details/10.webp",
+      "h4": "诺西与涛涛 跳起来",
+      "hot": "热度 12",
+      "time": "00:55",
+      "head_imgsrc": "./data/data/assets/images/details/09.jpg",
+      "head_name": "原创",
+      "like": 1,
+      "speak": ""
+    },
+    {
+      "imgsrc": "./data/data/assets/images/details/09.webp",
+      "h4": "【肖战】摸鱼--青柠",
+      "hot": "热度 10",
+      "time": "00:44",
+      "head_imgsrc": "./data/data/assets/images/details/09.jpg",
+      "head_name": "原创",
+      "like": 13,
+      "speak": "3"
+    },
+    {
+      "imgsrc": "./data/data/assets/images/details/10.webp",
+      "h4": "致最爱的鹿鹿",
+      "hot": "热度 12",
+      "time": "00:28",
+      "head_imgsrc": "./data/data/assets/images/details/09.jpg",
+      "head_name": "致最爱的鹿鹿",
+      "like": 5,
+      "speak": ""
+    }
+  ]
+}

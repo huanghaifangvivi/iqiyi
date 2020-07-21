@@ -1,0 +1,292 @@
+{
+  "banner": [
+    {
+      "imgsrc": "./data/data/assets/images/vip_choose/01.jpg",
+      "h5" : "狮子王·兽王回归凶猛对决",
+      "tip": ""
+    },
+    {
+      "imgsrc": "./data/data/assets/images/vip_choose/02.jpg",
+      "h5" : "二十不惑：关晓彤领衔九五后青春",
+      "tip": "更新至8集"
+    },
+    {
+      "imgsrc": "./data/data/assets/images/vip_choose/04.jpg",
+      "h5" : "第3期：小沈阳郑凯挑战魔性RAP",
+      "tip": "2020-07-18期"
+    },
+    {
+      "imgsrc": "./data/data/assets/images/vip_choose/05.jpg",
+      "h5" : "有药",
+      "tip": "更新至3集"
+    },
+    {
+      "imgsrc": "./data/data/assets/images/vip_choose/03.webp",
+      "h5" : "惊险·贝爷绝世大冒险",
+      "tip": "3集全"
+    }
+  ],
+  "hot": [
+    {
+      "imgsrc": "./data/data/assets/images/vip_choose/001.webp",
+      "h5": "小娘惹",
+      "p": "三代娘惹命运变迁史",
+      "tip": "更新至42集",
+      "flag":"VIP"
+    },
+    {
+      "imgsrc": "./data/data/assets/images/vip_choose/002.webp",
+      "h5": "重启之极海听雷第一季",
+      "p": "朱一龙铁三角冒险之旅",
+      "tip": "更新至10集",
+      "flag":"独播"
+    },
+    {
+      "imgsrc": "./data/data/assets/images/vip_choose/003.webp",
+      "h5": "航海王",
+      "p": "草帽路飞伟大冒险",
+      "tip": "更新至933集",
+      "flag":"独播"
+    },
+    {
+      "imgsrc": "./data/data/assets/images/vip_choose/004.webp",
+      "h5": "冲浪生活体验清凉综艺",
+      "p": "冲浪生活体验清凉综艺",
+      "tip": "07-18期",
+      "flag":"自制"
+    },
+    {
+      "imgsrc": "./data/data/assets/images/vip_choose/005.webp",
+      "h5": "英雄",
+      "p": "超级特工上演追逐战",
+      "tip": "",
+      "flag":"独播"
+    },
+    {
+      "imgsrc": "./data/data/assets/images/vip_choose/006.webp",
+      "h5": "霍家拳之铁臂娇娃",
+      "p": "怪力少女横扫恶霸",
+      "tip": "",
+      "flag":"独播"
+    }
+  ],
+  "online": [
+    {
+      "imgsrc": "./data/data/assets/images/vip_choose/007.webp",
+      "time": "07月19日",
+      "tip": "18.5万人预约",
+      "h5": "《狄仁杰探案之天煞孤鸾》预告片",
+      "p": "狄仁杰再破连凶环杀案"
+    },
+    {
+      "imgsrc": "./data/data/assets/images/vip_choose/008.webp",
+      "time": "敬请期待",
+      "tip": "135.5万人预约",
+      "h5": "《天气之子》终极预告开虐",
+      "p": "天气之子终极预告开虐"
+    },
+    {
+      "imgsrc": "./data/data/assets/images/vip_choose/009.webp",
+      "time": "敬请期待",
+      "tip": "3.6万人预约",
+      "h5": "《换脸三部曲》奇幻来袭",
+      "p": "你想换成谁的样子"
+    },
+    {
+      "imgsrc": "./data/data/assets/images/vip_choose/010.webp",
+      "time": "07月22日",
+      "tip": "6.6万人预约",
+      "h5": "《三目封神传》预告片",
+      "p": "天道有缺杨戬来平"
+    },
+    {
+      "imgsrc": "./data/data/assets/images/vip_choose/011.webp",
+      "time": "07月23日",
+      "tip": "56.1万人预约",
+      "h5": "先导预告 四杰亮相邀你入学",
+      "p": "云上四杰开启学堂生活"
+    },
+    {
+      "imgsrc": "./data/data/assets/images/vip_choose/012.webp",
+      "time": "敬请期待",
+      "tip": "14.6万人预约",
+      "h5": "伊恩·阿米蒂奇喊你来追剧！",
+      "p": "童年谢尔顿的家庭趣事"
+    },
+    {
+      "imgsrc": "./data/data/assets/images/vip_choose/013.webp",
+      "time": "07月24日",
+      "tip": "24.8万人预约",
+      "h5": "征途 · 即将上线",
+      "p": "残暴世界 巅峰对决"
+    },
+    {
+      "imgsrc": "./data/data/assets/images/vip_choose/014.webp",
+      "time": "07月26日",
+      "tip": "14万人预约",
+      "h5": "《镇魂歌》先导预告",
+      "p": "《镇魂歌》先导预告，镇魂破封 妖王现世"
+    },
+    {
+      "imgsrc": "./data/data/assets/images/vip_choose/015.webp",
+      "time": "敬请期待",
+      "tip": "3.1万人预约",
+      "h5": "余罪电影版《卧鱼》预告",
+      "p": "热血少年燃爆青春"
+    },
+    {
+      "imgsrc": "./data/data/assets/images/vip_choose/016.webp",
+      "time": "敬请期待",
+      "tip": "18.8万人预约",
+      "h5": "有药 先导预告",
+      "p": "先导预告"
+    }
+  ],
+  "movie": [
+    {
+      "h5": "亲情",
+      "p": "500+部电影"
+    },
+    {
+      "h5": "人生赢家",
+      "p": "18部电影"
+    },
+    {
+      "h5": "中叔皇",
+      "p": "11部电影"
+    },{
+      "h5": "人性",
+      "p": "500+部电影"
+    },
+    {
+      "h5": "IMAX",
+      "p": "34部电影"
+    },
+    {
+      "h5": "3DIMAX",
+      "p": "48部电影"
+    },
+    {
+      "h5": "IQUT",
+      "p": "10部电影"
+    },
+    {
+      "h5": "中国功夫",
+      "p": "9部电影"
+    },
+    {
+      "h5": "换一换",
+      "p": ""
+    }
+  ],
+  "loop": [
+    {
+      "h4": "用卷专区",
+      "li": [
+        {
+          "imgsrc": "./data/data/assets/images/vip_choose/017.webp",
+          "flag": "用卷",
+          "tip": "8.2",
+          "h5": "移动迷宫（普通话）（HDR）",
+          "p": "迷宫阴谋四起"
+        },
+        {
+          "imgsrc": "./data/data/assets/images/vip_choose/018.webp",
+          "flag": "用卷",
+          "tip": "8.0",
+          "h5": "理查德·朱维尔的哀歌",
+          "p": "奥运会真实事件改编"
+        },
+        {
+          "imgsrc": "./data/data/assets/images/vip_choose/019.webp",
+          "flag": "用卷",
+          "tip": "8.3",
+          "h5": "火星救援 （HDR）",
+          "p": "达蒙火星种土豆自救"
+        },
+        {
+          "imgsrc": "./data/data/assets/images/vip_choose/020.webp",
+          "flag": "用卷",
+          "tip": "7.7",
+          "h5": "西部明星",
+          "p": "布鲁斯专辑同名电影"
+        },
+        {
+          "imgsrc": "./data/data/assets/images/vip_choose/021.webp",
+          "flag": "用卷",
+          "tip": "7.1",
+          "h5": "冰川时代4（HDR）",
+          "p": "极地萌物智斗凶残海盗"
+        },
+        {
+          "imgsrc": "./data/data/assets/images/vip_choose/022.webp",
+          "flag": "用卷",
+          "tip": "8.2",
+          "h5": "猩球崛起（HDR）",
+          "p": "科幻经典人猿星球前传"
+        }
+      ]
+    },
+    {
+      "h4": "VIP电影",
+      "li": [
+        {
+          "imgsrc": "./data/data/assets/images/vip_choose/023.webp",
+          "flag": "独播",
+          "tip": "7.8",
+          "h5": "狄仁杰探案之天煞孤鸾",
+          "p": "狄仁杰再破连环凶杀案"
+        },
+        {
+          "imgsrc": "./data/data/assets/images/vip_choose/024.webp",
+          "flag": "独播",
+          "tip": "6.5",
+          "h5": "生态箱",
+          "p": "魔术小伙化身搞笑奶爸"
+        },
+        {
+          "imgsrc": "./data/data/assets/images/vip_choose/025.webp",
+          "flag": "独播",
+          "tip": "7.7",
+          "h5": "英雄（普通话）",
+          "p": "‘青春’之谜即将揭晓"
+        },
+        {
+          "imgsrc": "./data/data/assets/images/vip_choose/026.webp",
+          "flag": "独播",
+          "tip": "8.0",
+          "h5": "英雄",
+          "p": "超级特工上演追逐战"
+        },
+        {
+          "imgsrc": "./data/data/assets/images/vip_choose/027.webp",
+          "flag": "独播",
+          "tip": "7.5",
+          "h5": "嘿！小骨头",
+          "p": "白骨精成魔之路"
+        },
+        {
+          "imgsrc": "./data/data/assets/images/vip_choose/028.webp",
+          "flag": "独播",
+          "tip": "7.5",
+          "h5": "猎鹰突击",
+          "p": "‘嘎子哥’极限突围"
+        }
+      ]
+    }
+  ],
+  "for": [
+    {
+      "imgsrc": "./data/data/assets/images/choose/106.png",
+      "span": "爱奇艺阅读"
+    },
+    {
+      "imgsrc": "./data/data/assets/images/choose/107.png",
+      "span": "叭嗒"
+    },
+    {
+      "imgsrc": "./data/data/assets/images/choose/108.png",
+      "span": "奇巴布"
+    }
+  ]
+}

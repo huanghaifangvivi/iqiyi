@@ -1,0 +1,220 @@
+{
+  "banner": [
+    {
+      "imgsrc": "./data/data/assets/images/choose/01.jpg",
+      "h5": "二十不惑：关晓彤卜冠今诠释青春",
+      "flag": "独播"
+    },
+    {
+      "imgsrc": "./data/data/assets/images/choose/04.jpg",
+      "h5": "夏日冲浪店：王一博野人装冲浪",
+      "flag": "自制"
+    },
+    {
+      "imgsrc": "./data/data/assets/images/choose/02.jpg",
+      "h5": "奔跑吧4：沙郭蔡撕名牌内讧",
+      "flag": "VIP"
+    },
+    {
+      "imgsrc": "./data/data/assets/images/choose/03.jpg",
+      "h5": "重启：铁三角下地宫九死一生",
+      "flag": "独播"
+    },
+    {
+      "imgsrc": "./data/data/assets/images/choose/04.jpg",
+      "h5": "暮白首：那岚岳复仇走火入魔",
+      "flag": "VIP"
+    }
+  ],
+  "first": [
+    {
+      "imgsrc": "./data/data/assets/images/choose/001.jpg",
+      "h5": "暮白首",
+      "p": "甜蜜！白首夫妇笑傲江湖",
+      "tip": "45集全",
+      "flag":"VIP"
+    },
+    {
+      "imgsrc": "./data/data/assets/images/choose/002.png",
+      "h5": "天舞纪",
+      "p": "酥梨CP双箭头恋爱超甜",
+      "tip": "更新至18集",
+      "flag":"独播"
+    },
+    {
+      "imgsrc": "./data/data/assets/images/choose/003.jpg",
+      "h5": "河神2",
+      "p": "神秘印章隐藏着什么秘密？",
+      "tip": "更新至16集",
+      "flag":"自制"
+    },
+    {
+      "imgsrc": "./data/data/assets/images/choose/004.jpg",
+      "h5": "胜算",
+      "p": "柳云龙苏青组特工搭档",
+      "tip": "更新至4集",
+      "flag":"VIP"
+    }
+  ],
+  "information": [
+    {
+      "p1": "全国7月15日新增1例确诊",
+      "p2": "全球累计确诊超1365万例",
+      "imgsrc1": "./data/data/assets/images/choose/005.jpg",
+      "imgsrc2": "./data/data/assets/images/choose/006.jpg",
+      "tip1": "昨天发布",
+      "tip2": "昨天发布",
+      "time1": "02:00",
+      "time2": "01:01",
+      "span1": "印度确诊超百万恢复航班",
+      "span2": "安徽河南等6省有大暴雨",
+      "btn1": "更多资讯",
+      "btn2": "换一批"
+    }
+  ],
+  "tv_movie": [
+    {
+      "h5": "电视剧",
+      "li": [
+        {
+          "imgsrc": "./data/data/assets/images/choose/007.webp",
+          "flag": "VIP",
+          "tip": "更新至10集",
+          "span":"重启之极海听雷第一季"
+        },
+        {
+          "imgsrc": "./data/data/assets/images/choose/008.webp",
+          "flag": "自制",
+          "tip": "更新至16集",
+          "span":"河神"
+        },
+        {
+          "imgsrc": "./data/data/assets/images/choose/009.webp",
+          "flag": "自制",
+          "tip": "12集全",
+          "span":"只好背叛地球了"
+        },
+        {
+          "imgsrc": "./data/data/assets/images/choose/010.webp",
+          "flag": "VIP",
+          "tip": "更新至4集",
+          "span":"胜算"
+        },
+        {
+          "imgsrc": "./data/data/assets/images/choose/011.webp",
+          "flag": "VIP",
+          "tip": "更新至13集",
+          "span":"什刹海"
+        },
+        {
+          "imgsrc": "./data/data/assets/images/choose/012.webp",
+          "flag": "独播",
+          "tip": "18集全",
+          "span":"腾空之约"
+        }
+      ],
+      "btn1": "更多电视剧",
+      "btn2": "换一批"
+    },
+    {
+      "h5": "电影",
+      "li": [
+        {
+          "imgsrc": "./data/data/assets/images/choose/013.webp",
+          "flag": "VIP",
+          "tip": "",
+          "span":"狮子王·会员免费"
+        },
+        {
+          "imgsrc": "./data/data/assets/images/choose/014.webp",
+          "flag": "自制",
+          "tip": "",
+          "span":"征途·即将上线"
+        },
+        {
+          "imgsrc": "./data/data/assets/images/choose/015.webp",
+          "flag": "独播",
+          "tip": "",
+          "span":"春潮"
+        },
+        {
+          "imgsrc": "./data/data/assets/images/choose/016.webp",
+          "flag": "独播",
+          "tip": "",
+          "span":"生态箱"
+        },
+        {
+          "imgsrc": "./data/data/assets/images/choose/017.webp",
+          "flag": "VIP",
+          "tip": "",
+          "span":"猛虫过江"
+        },
+        {
+          "imgsrc": "./data/data/assets/images/choose/018.webp",
+          "flag": "独播",
+          "tip": "",
+          "span":"英雄"
+        }
+      ],
+      "btn1": "更多电影",
+      "btn2": "换一批"
+    },
+    {
+      "h5": "动漫",
+      "li": [
+        {
+          "imgsrc": "./data/data/assets/images/choose/19.webp",
+          "flag": "VIP",
+          "tip": "更新至14集",
+          "span":"刀剑神域 爱丽丝篇 异界战争"
+        },
+        {
+          "imgsrc": "./data/data/assets/images/choose/20.webp",
+          "flag": "独播",
+          "tip": "更新至3集",
+          "span":"有药"
+        },
+        {
+          "imgsrc": "./data/data/assets/images/choose/21.webp",
+          "flag": "独播",
+          "tip": "更新至3集",
+          "span":"食戟之灵 第5季"
+        },
+        {
+          "imgsrc": "./data/data/assets/images/choose/22.webp",
+          "flag": "VIP",
+          "tip": "更新至5集",
+          "span":"泽塔奥特曼 普通话"
+        },
+        {
+          "imgsrc": "./data/data/assets/images/choose/23.webp",
+          "flag": "独播",
+          "tip": "更新至5集",
+          "span":"吞噬永恒"
+        },
+        {
+          "imgsrc": "./data/data/assets/images/choose/24.webp",
+          "flag": "VIP",
+          "tip": "更新至2集",
+          "span":"Re：从零开始的异世界生活 第2季"
+        }
+      ],
+      "btn1": "更多动漫",
+      "btn2": "换一批"
+    }
+  ],
+  "for": [
+    {
+      "imgsrc": "./data/data/assets/images/choose/106.png",
+      "span": "爱奇艺阅读"
+    },
+    {
+      "imgsrc": "./data/data/assets/images/choose/107.png",
+      "span": "叭嗒"
+    },
+    {
+      "imgsrc": "./data/data/assets/images/choose/108.png",
+      "span": "奇巴布"
+    }
+  ]
+}
